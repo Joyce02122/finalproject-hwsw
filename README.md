@@ -18,4 +18,4 @@ The DreamGuard is a wearable device that helps people with PTSD manage nightmare
 
 ## Device Communication and Diagram
 
-![Device Communication](https://github.com/Joyce02122/finalproject-hwsw/main/images/device_communication.png)
+![Device Communication](https://github.com/Joyce02122/finalproject-hwsw/raw/main/images/device_communication.png)
